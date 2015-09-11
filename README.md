@@ -1,2 +1,1 @@
-# CreativeCoding_oF_F15_Sarah_Montero
-Creative Coding Homework F15 
+# CreativeCoding_oF_F15_Sarah_Montero-Project1
